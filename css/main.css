@@ -44,29 +44,29 @@ body {
 }
 
 h1 {
-	font-family: 'abril_fatfaceregular';
+	font-family: 'abril_fatfaceregular', serif;
 }
 
 h2 {
-	font-family: '20_dbregular';
+	font-family: '20_dbregular', sans serif;
 }
 
 h3 {
-	font-family: 'abril_fatfaceregular';
+	font-family: 'abril_fatfaceregular', serif;
 }
 
 h4 {
-	font-family: '20_dbregular';
+	font-family: '20_dbregular', sans serif;
 }
 
 h5 {
-	font-family: 'abril_fatfaceregular';
+	font-family: 'abril_fatfaceregular', serif;
 }
 
 h6 {
-	font-family: '20_dbregular';
+	font-family: '20_dbregular', sans serif;
 }
 
 p {
-	font-family: 'abril_fatfaceregular';
+	font-family: 'abril_fatfaceregular', serif;
 }
